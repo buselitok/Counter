@@ -1,0 +1,25 @@
+#counter{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+#increase{
+    background-color: blueviolet;
+    margin-left: 44%;
+    margin-top: 5%;
+    padding: 0.5%;
+    width: 5%;
+    margin-right: 2%;
+    
+}
+
+#decrease{
+    background-color: palevioletred;
+    padding: 0.5%;
+    width: 5%;
+}
+
+body{
+    background-color: bisque;
+}
